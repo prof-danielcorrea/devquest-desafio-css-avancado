@@ -10,7 +10,7 @@
   <img src="design/active-states.jpg" alt="active states" src="" width="100%">
 </p>
 
-<p align="center">Mobile Design
+<p align="center"> Mobile Design
   <img src="design/mobile-design.jpg" alt="design mobile" src="" width="50%">
 </p>
 
@@ -23,7 +23,7 @@
 
 ## 🚀 Tecnologias:
 
-Esse projeto foi desenvolvido obedecendo as orientações informadas<a href="informacoes/style-guide.md">, objetivando a referencia do aprendizado. Foi utilizado as seguintes linguagens abaixo:
+Esse projeto foi desenvolvido obedecendo as orientações informadas [Style Guide](./informacoes/style-guide.md), objetivando a referencia do aprendizado. Foi utilizado as seguintes linguagens abaixo:
 
 - HTML5
 - CSS3
