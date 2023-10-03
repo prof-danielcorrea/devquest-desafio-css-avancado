@@ -29,10 +29,20 @@
 
 ## 🚀 Tecnologias:
 
-Esse projeto foi desenvolvido obedecendo as orientações informadas [Style Guide](./informacoes/style-guide.md), objetivando a referencia do aprendizado. Foi utilizado as seguintes linguagens abaixo:
+Esse projeto foi desenvolvido obedecendo as orientações informadas [Style Guide](./informacoes/style-guide.md), objetivando a referencia do aprendizado. Foi utilizado as seguintes tecnologias:
 
 - HTML5
 - CSS3
+
+## 📚 Conhecimentos colocados em prática:
+
+- Seletores
+- Variáveis
+- Flexbox
+- Grid
+- Media queries
+- Unidades de medidas
+
 
 ## 🚧 Projeto:
 
