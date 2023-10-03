@@ -2,15 +2,21 @@
   Land Page - Desafio CSS Avançado
 </h1>
 
-<p align="center"> Desktop Preview
+<p align="center"><b>Desktop Preview</b> 🖥️ 💻</p>
+
+<p align="center"> 
   <img src="design/desktop-preview.jpg" alt="design desktop" src="" width="100%">
 </p>
 
-<p align="center"> Desktop Active States
+<p align="center"><b>Desktop Active States</b> 🖥️ 💻 🖱️</p>
+  
+<p align="center"> 
   <img src="design/active-states.jpg" alt="active states" src="" width="100%">
 </p>
 
-<p align="center"> Mobile Design
+<p align="center"><b>Mobile Design</b> 📲</p>
+  
+<p align="center">
   <img src="design/mobile-design.jpg" alt="design mobile" src="" width="50%">
 </p>
 
