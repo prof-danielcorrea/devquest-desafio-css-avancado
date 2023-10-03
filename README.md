@@ -36,6 +36,23 @@ Esse projeto foi desenvolvido obedecendo as orientações informadas [Style Guid
 
 ## 🚧 Projeto:
 
+<p align="center"><b>Desktop</b> 🖥️ 💻</p>
+
+<p align="center">
+
+https://github.com/prof-danielcorrea/devquest-desafio-css-avancado/assets/138734247/13f26a64-8df4-4d1b-a7e9-7aa837a3e59f
+
+</p>
+
+<p align="center"><b>Responsividade Desktop, Tablets e Telefones</b> 🖥️ 💻📲</p>
+
+<p align="center">
+
+https://github.com/prof-danielcorrea/devquest-desafio-css-avancado/assets/138734247/ab770b13-077e-494f-84d1-4d81f454e19c
+
+</p>
+
+
 Link do Projeto: [Desafio CSS Avançado](https://prof-danielcorrea.github.io/devquest-desafio-css-avancado/)
 
 
