@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">Mobile Design
-  <img src="design/mobile-design.jpg" alt="design mobile" src="" width="100%">
+  <img src="design/mobile-design.jpg" alt="design mobile" src="" width="50%">
 </p>
 
 <p align="center">
