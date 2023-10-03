@@ -65,10 +65,10 @@ body {
   display: grid;
   height: 100%;
   grid: 
-  'logo logo' 13%
-  'image-main desc-texto' 77%
+  'logo logo' 12%
+  'image-main desc-texto' 75%
   'social-redes social-redes' 10%
-  / 57% 43%;
+  / 55% 45%;
 }
 
 .grid-item {
@@ -81,7 +81,7 @@ body {
 
 .mockups {
   position: relative;
-  width: 94%;
+  width: 98%;
 
 }
 
@@ -105,7 +105,7 @@ p {
 }
 
 .btn {
-  width: 235px;
+  width: 230px;
   height: 60px;
   background-color: var(--color-text); 
   border-radius: 50px;
