@@ -1,0 +1,63 @@
+@media (max-width: 1024px) {
+    .grid-container {
+        display: grid;
+        height: 100%;
+        grid: 
+        'logo logo' 
+        'image-main image-main' 
+        'desc-texto desc-texto' 
+        'social-redes social-redes'
+      }
+
+
+      [class*="grid-item"] {
+        align-items: center; 
+        justify-content: center;
+        padding: 0 13vw;
+        padding-bottom: 50px;
+      }
+
+
+      .logo {
+        justify-content: flex-start;
+        align-items: center;
+        padding-top: 35px;
+      }
+
+      .header-logo {
+        width: 30vw;
+      }
+      
+
+      .background {
+        width: 100%;
+        height: 50%;
+      }
+
+      .mockups {
+        width: 100%;
+      }
+
+      .descricao {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 6vw;
+      }
+
+      p {
+        font-size: 4vw;
+      }
+
+      .social {
+        max-width: 40px;
+       
+      }
+
+      .btn {
+        width: 250px;
+        height: 50px;
+        font-size: 1.5rem;
+      }
+    }

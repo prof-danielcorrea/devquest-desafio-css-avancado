@@ -1,0 +1,151 @@
+:root{
+
+  --background-color: hsl(257, 40%, 49%);
+  --color-hover: hsl(300, 69%, 71%); 
+  --color-text: #fff;
+}
+
+html {
+    font-size: 62%;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: var(--background-color);
+    font-family: 'Open Sans' sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.background {
+  position: absolute;
+  width: 92%;
+  height: 100%;
+}
+
+[class*="grid-item"] {
+  position: relative;
+}
+
+.logo {
+  grid-area: logo;
+  display: flex;
+  justify-content: start;
+  align-items: flex-end;
+  padding: 0 5vw;
+}
+
+.image-main {
+  grid-area: image-main;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  
+  padding: 6vw 0 0 5vw;
+}
+
+.desc-texto {
+  grid-area: desc-texto;
+  display: flex;
+  flex-direction: column;
+  padding: 9vw 5vw 0 2vw; 
+}
+
+.social-redes {
+  grid-area: social-redes;
+  padding: 0 5vw;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+}
+
+.grid-container {
+  display: grid;
+  height: 100%;
+  grid: 
+  'logo logo' 13%
+  'image-main desc-texto' 77%
+  'social-redes social-redes' 10%
+  / 57% 43%;
+}
+
+.grid-item {
+    text-align: center;
+  }
+
+.header-logo {
+  width: 285px;
+}
+
+.mockups {
+  position: relative;
+  width: 94%;
+
+}
+
+.descricao {
+  margin-bottom: 30px;
+  text-align: left;
+  color: var(--color-text); 
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+p {
+  font-size: 2rem;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.btn {
+  width: 235px;
+  height: 60px;
+  background-color: var(--color-text); 
+  border-radius: 50px;
+  font-size: 2rem;
+  color: var(--background-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 5px 5px 15px 2px rgba(0, 0, 0, 0.4);
+  
+}
+
+.btn:hover {
+  background-color: var(--color-hover);
+  color: var(--color-text); 
+}
+
+.social {
+
+  color: var(--color-text); 
+  border: 1px solid var(--color-text); 
+  margin: 8px;
+  border-radius: 50%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  padding: 8px;
+  transition: 0.3s;
+  font-size: 18px; 
+}
+
+
+.social:hover{
+  color: var(--color-hover);
+  border: 1px solid var(--color-hover);
+}
+
